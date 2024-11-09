@@ -3,6 +3,7 @@ title: Minho Kim
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
   ## Minho Kim
+  Nov 2024
 ---
 {% include button.html text="alsgh5016@gmail.com" icon="email" link="mailto:alsgh5016@gmail.com" color="#0d94e7" %} {% include button.html text="CV ⚗️" link="/assets/cv/cv.pdf" %}
 
