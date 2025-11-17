@@ -3,7 +3,7 @@ title: Minho Kim
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
   ## Minho Kim
-  Nov 2024
+  Nov 2025
 ---
 {% include button.html text="alsgh5016@gmail.com" icon="email" link="mailto:alsgh5016@gmail.com" color="#0d94e7" %} {% include button.html text="CV ⚗️" link="/assets/cv/cv.pdf" %}
 
@@ -14,9 +14,10 @@ I'm a **Ph.D. student** in the School of Software at **Soongsil University**, Se
 {% include button.html text="alsgh5016" icon="github" link="https://github.com/alsgh5016" color="#0366d6" %} {% include button.html text="ssu-csec" icon="github" link="https://github.com/ssu-csec" color="#f68140" %}
 
 ## Publications
-1. Gwangyeol Lee, **Minho Kim**, Jeong Hyun Yi, and Haehyun Cho, “Pinicorn: Towards automated dynamic analysis for unpacking 32-bit pe malware,” Electronics, vol. 13, no. 11, p. 2081, 2024 [[pdf](/assets/paper/electronics-2024.pdf)]
-2. **Minho Kim**, Jeong Hyun Yi, and Haehyun Cho, “De-obfuscated scheme for obfuscation techniques based on trampoline code,” Journal of The Korea Institute of Information Security & Cryptology, vol. 33, no. 6, pp. 1043–1053, 2023 [[pdf](/assets/paper/jkiisc-2023.pdf)]
-3. **Minho Kim**, Haehyun Cho, and Jeong Hyun Yi, “Large-scale analysis on anti-analysis techniques in real-world malware,” IEEE access, vol. 10, pp. 75 802–75 815, 2022 [[pdf](/assets/paper/ieee-2022.pdf)]
+1. Sehwan O, **Minho Kim**, Younghoon Ban, and Haehyun Cho, "Xades: Static Taint Analysis Framework for C#-Based Multilingual Applications," IEEE Access, vol. 13, pp. 164952-164964, 2025 [[pdf](/assets/paper/ieee-2025.pdf)]
+2. Gwangyeol Lee, **Minho Kim**, Jeong Hyun Yi, and Haehyun Cho, “Pinicorn: Towards Automated Dynamic Analysis for Unpacking 32-Bit PE Malware,” Electronics, vol. 13, no. 11, p. 2081, 2024 [[pdf](/assets/paper/electronics-2024.pdf)]
+3. **Minho Kim**, Jeong Hyun Yi, and Haehyun Cho, “De-obfuscated scheme for obfuscation techniques based on trampoline code,” Journal of The Korea Institute of Information Security & Cryptology, vol. 33, no. 6, pp. 1043–1053, 2023 [[pdf](/assets/paper/jkiisc-2023.pdf)]
+4. **Minho Kim**, Haehyun Cho, and Jeong Hyun Yi, “Large-scale analysis on anti-analysis techniques in real-world malware,” IEEE Access, vol. 10, pp. 75802–75815, 2022 [[pdf](/assets/paper/ieee-2022.pdf)]
 
 ## Presentations
 1. **Minho Kim**, Gwangyeol Lee, Haehyun Cho, and Jeong Hyun Yi, “De-obfuscation system for obfuscation techniques based on trampoline code,” at The 7th International Symposium on Mobile Internet Security, 2023 [[pdf](/assets/paper/MobiSec-2023.pdf)]
